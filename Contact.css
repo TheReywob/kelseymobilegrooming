@@ -23,7 +23,7 @@
 
 .u-section-2 .u-list-1 {
   min-height: 299px;
-  grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
+  grid-template-columns: calc(50% - 10px) calc(50% - 10px);
   grid-template-rows: auto;
   grid-gap: 10px 10px;
   margin-top: 51px;
