@@ -1,12 +1,12 @@
 .u-section-1 {
   background-image: none;
+  background-color: transparent;
   min-height: 786px;
 }
 
 .u-section-1 .u-image-1 {
   height: 669px;
-  margin-top: 117px;
-  margin-bottom: 0;
+  margin-top: 100px;
   object-position: 50% 27.83%;
 }
 
@@ -16,7 +16,7 @@
   grid-template-rows: auto;
   width: 1056px;
   grid-gap: 21px 21px;
-  margin: -307px auto 35px;
+  margin: -307px auto 0;
 }
 
 .u-section-1 .u-list-item-1 {
